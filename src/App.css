@@ -1,6 +1,12 @@
 .App {
   text-align: center;
+  margin: 2em;
 }
+
+li {
+  margin-bottom: 1.5em;
+}
+
 
 .App-logo {
   height: 40vmin;
@@ -23,6 +29,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+
+li {
+  margin-bottom: 1.5em;
+}
+
 
 .App-link {
   color: #61dafb;
